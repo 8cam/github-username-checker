@@ -7,7 +7,7 @@ This is a Python script that checks a list of GitHub usernames to see if they ar
 1. Clone this repository to your local machine.
 2. Create a file called `usernames.txt` in the same directory as the script.
 3. Add a list of GitHub usernames, one per line, to the `usernames.txt` file.
-4. Run the script using `python github_username_checker.py`.
+4. Run the script using `python checker.py`.
 5. The script will output a list of usernames and whether they are available or taken.
 
 ## Requirements
